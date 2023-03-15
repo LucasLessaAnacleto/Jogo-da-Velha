@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-import JogoDaVelha;
 public class main{
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
